@@ -1,0 +1,13 @@
+.container {
+  grid-template-columns: 100%;
+  grid-template-rows: 1fr auto;
+  @apply grid font-mono min-h-screen;
+}
+
+.footer {
+  @apply font-mono;
+}
+
+.footer_content {
+  @apply max-w-5xl p-6 text-right text-slate-400;
+}

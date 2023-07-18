@@ -1,0 +1,7 @@
+.content {
+  @apply overflow-hidden w-full py-12;
+}
+
+.content_body {
+  @apply p-6;
+}
